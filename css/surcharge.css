@@ -7,6 +7,7 @@
    src: url("/theme/milipol_insiders_git_desktop/fonts/sansumi-demibold-webfont.woff2") format("woff2"), url("/theme/milipol_insiders_git_desktop/fonts/sansumi-demibold-webfont.woff") format("woff");
    font-weight: normal;
    font-style: normal;
+   font-display: swap;
 }
 
 @font-face {
@@ -14,6 +15,7 @@
    src: url("/theme/milipol_insiders_git_desktop/fonts/montserrat-light.woff");
    font-weight: normal;
    font-style: normal;
+   font-display: swap;
 }
 
 @font-face {
@@ -21,6 +23,7 @@
    src: url("/theme/milipol_insiders_git_desktop/fonts/montserrat-medium.woff");
    font-weight: normal;
    font-style: normal;
+   font-display: swap;
 }
 
 @font-face {
@@ -28,6 +31,7 @@
    src: url("/theme/milipol_insiders_git_desktop/fonts/montserrat-bold.woff");
    font-weight: normal;
    font-style: normal;
+   font-display: swap;
 }
 
 html,
