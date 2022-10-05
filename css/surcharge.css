@@ -5547,3 +5547,11 @@ iframe.ec {
     position: relative;
     display: block;
 }
+.site-footer a {
+    font-family: "insiders-montserrat-regular", arial, sans-serif;
+    color: #9E9FAB;
+    font-size: 1.1rem;
+    position: relative;
+    padding: 0 1rem;
+}
+
